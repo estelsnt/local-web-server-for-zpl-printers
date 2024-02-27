@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>COPGuardianQR</id>
+    <version>1.0.0</version>
+    <authors>COPGuardianQR</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Release\net8.0-windows\COPGuardianQR.runtimeconfig.json" target="lib\net8.0-windows7.0\COPGuardianQR.runtimeconfig.json" />
+    <file src="C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Release\net8.0-windows\COPGuardianQR.dll" target="lib\net8.0-windows7.0\COPGuardianQR.dll" />
+  </files>
+</package>
