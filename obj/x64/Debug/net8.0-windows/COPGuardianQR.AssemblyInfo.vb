@@ -14,7 +14,7 @@ Option Explicit On
 Imports System
 Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("COPGuardianQR"),  _
- Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
+ Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2945e61c93c4db587d086612a1022e075c7e4ccc"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("COPGuardianQR"),  _

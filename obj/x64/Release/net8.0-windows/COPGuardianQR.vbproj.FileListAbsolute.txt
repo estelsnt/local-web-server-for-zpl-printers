@@ -14,3 +14,4 @@ C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Release\net8.0-windows\refin
 C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Release\net8.0-windows\COPGuardianQR.pdb
 C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Release\net8.0-windows\COPGuardianQR.genruntimeconfig.cache
 C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Release\net8.0-windows\ref\COPGuardianQR.dll
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Release\net8.0-windows\COPGuardianQR.sourcelink.json

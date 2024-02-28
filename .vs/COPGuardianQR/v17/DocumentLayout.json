@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|c:\\users\\dev-pos\\source\\repos\\copguardianqr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|c:\\users\\dev-pos\\source\\repos\\copguardianqr\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAwwKUAAAAcAAAA",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-02-27T02:06:45.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\Form1.vb [Design]",
               "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T02:02:48.562Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-27T02:02:48.562Z"
             }
           ]
         }

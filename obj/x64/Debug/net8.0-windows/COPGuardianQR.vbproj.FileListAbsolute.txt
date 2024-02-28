@@ -1,0 +1,17 @@
+C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Debug\net8.0-windows\COPGuardianQR.exe
+C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Debug\net8.0-windows\COPGuardianQR.deps.json
+C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Debug\net8.0-windows\COPGuardianQR.runtimeconfig.json
+C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Debug\net8.0-windows\COPGuardianQR.dll
+C:\Users\DEV-POS\source\repos\COPGuardianQR\bin\x64\Debug\net8.0-windows\COPGuardianQR.pdb
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.Form1.resources
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.vbproj.GenerateResource.cache
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.AssemblyInfoInputs.cache
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.AssemblyInfo.vb
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.vbproj.CoreCompileInputs.cache
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.sourcelink.json
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.dll
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\refint\COPGuardianQR.dll
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.pdb
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\COPGuardianQR.genruntimeconfig.cache
+C:\Users\DEV-POS\source\repos\COPGuardianQR\obj\x64\Debug\net8.0-windows\ref\COPGuardianQR.dll

@@ -133,12 +133,46 @@ Public Class Form1
                 End Using
             End If
 
+            ' Check if the request is a GET
+            If request.HttpMethod = "GET" Then
+                ' Get the query parameters from the request URL
+                Dim queryData As String = request.Url.Query
+                Dim postData As String = ""
+
+                ' Extract the data parameter from the query string
+                If queryData.StartsWith("?zpl=") Then
+                    postData = queryData.Substring(5) ' Remove "?data=" prefix
+                    postData = HttpUtility.UrlDecode(postData) ' Decode URL-encoded data
+                    Me.Invoke(Sub() handlePrintingGET(postData))
+                End If
+
+                ' Respond with a simple message
+                Dim responseString As String = "Received GET request with data: " & postData
+
+                ' Set Content-Type header
+                response.ContentType = "text/plain"
+
+                ' Write response
+                Dim responseText As Byte() = System.Text.Encoding.UTF8.GetBytes(responseString)
+                response.ContentLength64 = responseText.Length
+                response.OutputStream.Write(responseText, 0, responseText.Length)
+            End If
+
+
             ' Close the response stream
             response.OutputStream.Close()
         End While
     End Sub
 
+    Private Sub handlePrintingGET(zlps As String)
+        ' begin printing
+        Dim stringWithoutNewlines As String = zlps.Replace(Environment.NewLine, "")
 
+
+
+
+        PrintZPL(HttpUtility.UrlDecode(stringWithoutNewlines))
+    End Sub
     Private Sub handlePrinting(zlps As String)
         Dim inputData As String = zlps
 
