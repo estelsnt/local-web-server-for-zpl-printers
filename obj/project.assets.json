@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DEV-POS\\.nuget\\packages\\": {}
+    "C:\\Users\\John-Dell\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\COPGuardianQR.vbproj",
+      "projectUniqueName": "C:\\projects\\local-web-server-for-zpl-printers\\COPGuardianQR.vbproj",
       "projectName": "COPGuardianQR",
-      "projectPath": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\COPGuardianQR.vbproj",
-      "packagesPath": "C:\\Users\\DEV-POS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV-POS\\source\\repos\\COPGuardianQR\\obj\\",
+      "projectPath": "C:\\projects\\local-web-server-for-zpl-printers\\COPGuardianQR.vbproj",
+      "packagesPath": "C:\\Users\\John-Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\local-web-server-for-zpl-printers\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DEV-POS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\John-Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +74,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

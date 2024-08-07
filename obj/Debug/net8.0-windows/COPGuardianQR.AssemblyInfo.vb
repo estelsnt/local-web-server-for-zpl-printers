@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("COPGuardianQR"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1814ce5da789ab127b3b3151b7eed76782d1371"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("COPGuardianQR"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("COPGuardianQR"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

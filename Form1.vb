@@ -167,10 +167,6 @@ Public Class Form1
     Private Sub handlePrintingGET(zlps As String)
         ' begin printing
         Dim stringWithoutNewlines As String = zlps.Replace(Environment.NewLine, "")
-
-
-
-
         PrintZPL(HttpUtility.UrlDecode(stringWithoutNewlines))
     End Sub
     Private Sub handlePrinting(zlps As String)

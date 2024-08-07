@@ -1,0 +1,17 @@
+C:\projects\local-web-server-for-zpl-printers\bin\Release\net8.0-windows\COPGuardianQR.exe
+C:\projects\local-web-server-for-zpl-printers\bin\Release\net8.0-windows\COPGuardianQR.deps.json
+C:\projects\local-web-server-for-zpl-printers\bin\Release\net8.0-windows\COPGuardianQR.runtimeconfig.json
+C:\projects\local-web-server-for-zpl-printers\bin\Release\net8.0-windows\COPGuardianQR.dll
+C:\projects\local-web-server-for-zpl-printers\bin\Release\net8.0-windows\COPGuardianQR.pdb
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.Form1.resources
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.vbproj.GenerateResource.cache
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.AssemblyInfoInputs.cache
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.AssemblyInfo.vb
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.vbproj.CoreCompileInputs.cache
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.sourcelink.json
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.dll
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\refint\COPGuardianQR.dll
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.pdb
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\COPGuardianQR.genruntimeconfig.cache
+C:\projects\local-web-server-for-zpl-printers\obj\Release\net8.0-windows\ref\COPGuardianQR.dll
