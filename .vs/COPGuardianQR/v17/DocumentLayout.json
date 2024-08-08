@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\projects\\local-web-server-for-zpl-printers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|c:\\projects\\local-web-server-for-zpl-printers\\copguardianqr.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:copguardianqr.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|c:\\projects\\local-web-server-for-zpl-printers\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|c:\\projects\\local-web-server-for-zpl-printers\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{80276C7D-5141-49AB-B270-2899F68F5363}|COPGuardianQR.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
@@ -22,52 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "COPGuardianQR",
-              "DocumentMoniker": "C:\\projects\\local-web-server-for-zpl-printers\\COPGuardianQR.vbproj",
-              "RelativeDocumentMoniker": "COPGuardianQR.vbproj",
-              "ToolTip": "C:\\projects\\local-web-server-for-zpl-printers\\COPGuardianQR.vbproj",
-              "RelativeToolTip": "COPGuardianQR.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2024-08-07T05:43:10.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\projects\\local-web-server-for-zpl-printers\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\projects\\local-web-server-for-zpl-printers\\Form1.vb",
-              "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAALwAAAAAAAAAAAAuwMYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T02:06:45.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\projects\\local-web-server-for-zpl-printers\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\projects\\local-web-server-for-zpl-printers\\Form1.vb [Design]",
               "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-02-27T02:02:48.562Z",
+              "WhenOpened": "2024-08-08T06:03:15.999Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
